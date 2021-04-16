@@ -58,9 +58,9 @@ if (mapElement) {
     // console.log(value)
     if (typeof value != "undefined") {
       // condition ? if-true : if-false;
-     return value >= 80.1 ? '#002755' :
+     return value >= 80.1 ? '#011d3d' :
      		value >= 60.1 ? '#00518f' :
-            value >= 40.1 ? '#0076c3' :
+            value >= 40.1 ? '#147ec5' :
             value >= 20.1 ? '#67b0d3' :
             value >= 0.1 ? '#cbe8f9' :
              
